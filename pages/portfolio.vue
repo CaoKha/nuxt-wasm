@@ -75,8 +75,8 @@
                 class="group inline-flex items-center font-semibold leading-tight text-slate-500 dark:text-slate-200"
                 aria-label="View Full Résumé" href="/pdf/resume.pdf" target="_blank"><span><span
                     class="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">View
-                    Full<!-- --> </span><span class="whitespace-nowrap"><span
-                      class="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">Résumé</span><svg
+                    Full </span><span class="whitespace-nowrap"><span
+                      class="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">CV</span><svg
                       xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
                       class="ml-1 inline-block h-4 w-4 shrink-0 -translate-y-px transition-transform group-hover:translate-x-2 group-focus-visible:translate-x-2 motion-reduce:transition-none"
                       aria-hidden="true">
